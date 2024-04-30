@@ -49,7 +49,7 @@
 
    ![Видалення пакетів](https://github.com/ilyanegusev/WORKCASES/blob/main/WORKCASES/workcase4/assets/workcase4_screen2.jpg)
 
-6) Оновлення пакетів
+6) Оновлення пакетів:
 
    *apt-get upgrade*
 
